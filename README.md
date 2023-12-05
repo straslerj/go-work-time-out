@@ -23,5 +23,9 @@ The 52/17 rule states that for every 52 minutes of work or focused activity, you
 ## Instructions
 
 1. Download a binary corresponding to your operating system: straslerj.github.io/go-work-time-out.html
-2. Double click the binary and the program will begin running.
+2. 
+   1. **MacOS/Linux**
+    You may need to run `chmod +x go-work-time-out-[osx | linux]` in order for the system to recognize it as an executable.
+   2. **Windows**
+    You should be able to just double click the .exe and be off to the races!
 3. To close the program, terminate the terminal (`Cmd+C` or `Ctrl+C`)
